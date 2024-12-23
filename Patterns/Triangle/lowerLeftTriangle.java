@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class lowerLeftTriangle {
     public static void main(String[] sk){
+        
         System.out.print("Enter a size of Triangle : ");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
